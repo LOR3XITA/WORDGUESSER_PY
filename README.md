@@ -37,7 +37,7 @@ A simple terminal-based word-guessing game (Wordle-style) written in Python. The
    }
    ```
 
-1.5 If you want to add your own vocabulary file it should be a .txt formatted like shown below. If you do so, put the name of your file (without the extension) in the language.json file.
+If you want to add your own vocabulary file it should be a .txt formatted like shown below. If you do so, put the name of your file (without the extension) in the language.json file.
 
    ```
    HOUSE
