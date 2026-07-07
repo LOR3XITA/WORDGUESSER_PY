@@ -1,7 +1,6 @@
 @echo off
 title WordGuesser_PY
 cd /d "%~dp0"
-
 python main.py
 
 if errorlevel 1 (
